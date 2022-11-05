@@ -2,7 +2,7 @@
 # Turtlebot EKF
 EKF ROS package to localize your robot inside a Gazebo environment. Drive the robot around in simulation and observe the `Odom` and `EKF` trajectories.   
 
-<img src="images/turtlebot_ekf.png" alt="demo" width="500" height="280"/></a>
+<img src="image/turtlebot_ekf.png" alt="" width="500" height="280"/></a>
 
 ### Pre-reuisite
 Ubuntu 16 and Ros Kinetic 
